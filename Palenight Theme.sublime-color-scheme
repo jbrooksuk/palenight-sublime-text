@@ -1,6 +1,6 @@
 {
   "name": "Palenight Theme",
-  "author": "Olaolu Olawuyi",
+  "author": "James Brooks (Based on Olaolu Olawuyi's VSCode Theme)",
   "globals": {
     "background": "#292D3E",
     "foreground": "#BFC7D5",
@@ -8,11 +8,12 @@
     "misspelling": "#EF5350",
     "fold_marker": "#ffffff",
     "accent": "#ffffff",
+    "caret":"#7e57c2",
     "gutter_foreground": "#4c5374",
     "line_diff_added": "#99b76d23",
     "line_diff_modified": "#e2c08de6",
     "line_diff_deleted": "#ef535033",
-    "selection": "#7580B850",
+    "selection": "#3C435E",
     "inactive_selection": "#929ac90d",
     "inactive_selection_foreground": "#929ac9",
     "highlight": "#2E3248",
@@ -24,17 +25,6 @@
     "brackets_foreground": "#3C435E",
     "tags_foreground": "#3C435E",
     "shadow": "#232635"
-  },
-  "variables": {
-    "black": "#676E95",
-    "white": "#ffffff",
-    "red": "#ff5572",
-    "green": "#a9c77d",
-    "yellow": "#FFCB6B",
-    "orange": "#FFCB6B",
-    "blue": "#82AAFF",
-    "magenta": "#C792EA",
-    "cyan": "#89DDFF"
   },
   "rules": [
     {
