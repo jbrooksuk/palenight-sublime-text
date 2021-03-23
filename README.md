@@ -1,6 +1,8 @@
 # Palenight (Sublime Text)
 
-Ported from the Palenight VSCode theme by [whizkydee](https://github.com/whizkydee/vscode-palenight-theme).
+Palenight for Sublime Text.
+
+Ported from VSCode theme by [whizkydee](https://github.com/whizkydee/vscode-palenight-theme) using the [code-theme-converter](https://github.com/tobiastimm/code-theme-converter) tool.
 
 ## Manual Installation
 
